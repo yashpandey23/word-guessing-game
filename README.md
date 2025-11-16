@@ -18,9 +18,3 @@ A simple Python word guessing game where players try to guess hidden words by en
 ## Technologies Used
 - Python
 - Random module
-
-## Installation
-```bash
-git clone https://github.com/your-username/word-guessing-game.git
-cd word-guessing-game
-python word_guessing_game.py
